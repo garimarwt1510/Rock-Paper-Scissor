@@ -1,0 +1,31 @@
+#heading{
+    color: antiquewhite;
+    text-align: center;
+    font-size: 50px;
+}
+body{
+   background-size: cover;
+   background-repeat:no-repeat;
+   background: linear-gradient(to right, #012a38, #133175);
+    
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+gap: 30px;
+    
+}
+.two{
+height: 160px;
+width: 160px;
+margin:7px;
+border-radius: 50%;
+animation: ease-in 2s ;
+
+}
+.two:hover{
+    opacity: 30%;
+    border: 5px solid #9ac0f8 ;
+    transition: ease;
+}
