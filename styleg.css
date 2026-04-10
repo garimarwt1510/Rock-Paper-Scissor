@@ -54,7 +54,7 @@ border-radius: 50%;
 .scoreboard{
  display: flex; 
  justify-content: center;
-    gap: 50px;
+    gap: 30px;
     font-size: 25px;
     color: antiquewhite;
     
